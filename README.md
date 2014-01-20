@@ -2,7 +2,7 @@ Ameden Web Engine
 ===
 
 <ul>
-<li><b>Автор:</b> RevenHell [<a target="_blank" href="http://vk.com/revenhell">VK</a> | <a target="_blank" href="http://twitter.com/reventwice">Twitter</a>] [<a target="_blank" href="http://engine.ameden.net/"><b>сайт движка</b></a>]</li>
+<li><b>Автор:</b> RevenHell [<a target="_blank" href="http://vk.com/revenhell">VK</a> | <a target="_blank" href="http://twitter.com/reventwice">Twitter</a>] [<a target="_blank" href="http://engine.ameden.net/"><b>официальный сайт движка</b></a>]</li>
 <li><a target="_blank" href="https://github.com/RevenHell/AWE-CMS/wiki">Информация и документация</a></li>
 </ul>
 
